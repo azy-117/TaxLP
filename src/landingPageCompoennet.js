@@ -2,7 +2,7 @@
 import { useState } from 'react';
 import { Calendar, Calculator, CheckCircle, ChevronDown, Clock, FileCheck, Shield, RefreshCw, HelpCircle, FileText, ClipboardCheck, BookOpen } from 'lucide-react';
 
-export default function LandingPage() {
+export default function VATLandingPage() {
   const [openFaq, setOpenFaq] = useState(false);
 
   return (
@@ -286,4 +286,4 @@ export default function LandingPage() {
     </div>
   );
 }
-</ant_artifact>
+// </ant_artifact>
