@@ -1,4 +1,4 @@
-{/* <ant_artifact identifier="UniqueIdentifier1" title="LandingPage Component with Updates"> */}
+
 import { useState } from 'react';
 import { Calendar, Calculator, CheckCircle, ChevronDown, Clock, FileCheck, Shield, RefreshCw, HelpCircle, FileText, ClipboardCheck, BookOpen } from 'lucide-react';
 
@@ -286,4 +286,4 @@ export default function VATLandingPage() {
     </div>
   );
 }
-// </ant_artifact>
+
